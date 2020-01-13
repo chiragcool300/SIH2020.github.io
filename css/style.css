@@ -88,8 +88,97 @@ font-size:70px;
 .main2
 {
 margin-top:0px;
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../4.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.main3
+{
+margin-top:0px;
 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../1.jpg);
 height:100vh;
-background-size:1000px;
+background-size:cover;
 background-position:center;
+}
+.main4
+{
+margin-top:0px;
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../3.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.main5
+{
+margin-top:0px;
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../5.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.main6
+{
+margin-top:0px;
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../6.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.main7
+{
+margin-top:0px;
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../7.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.main8
+{
+margin-top:0px;
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../8.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.introduction
+{
+margin-top:80px;
+ word-spacing: 10px;
+line-height: 150%;
+color:#fff;
+text-align:center;
+
+}
+.in
+{
+padding-top:50px;
+text-align:center;
+
+
+}
+.c3
+{
+padding-top:50px;
+text-align:center;
+
+
+}
+.p3
+{
+margin-top:80px;
+ word-spacing: 10px;
+line-height: 150%;
+color:#000;
+text-align:center;
+}
+.graph
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top:100px;
+  margin-bottom:100px;
+
 }
